@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+data_engineer_takehome/__init__.py
+data_engineer_takehome/__main__.py
+data_engineer_takehome/storage.py
+data_engineer_takehome.egg-info/PKG-INFO
+data_engineer_takehome.egg-info/SOURCES.txt
+data_engineer_takehome.egg-info/dependency_links.txt
+data_engineer_takehome.egg-info/top_level.txt
